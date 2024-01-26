@@ -1,0 +1,19 @@
+h1{text-align: center;;}
+body{background-color: rgb(213, 169, 207);
+font-family: lingwai TC;}
+.nav{font-size: 25px;color: rgb(18, 18, 18);text-decoration: none;}
+.button {
+    background-color: #7496c3; /* blue */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    font-family: lingwai TC;
+    margin: 4px 2px;
+    cursor: pointer;
+     
+  }
+  .content{text-align: center;}

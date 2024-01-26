@@ -1,0 +1,10 @@
+h1{text-align: center;}
+h2{text-align: center;}
+p{text-align: center;}
+a{text-align: left;float: left; margin-right: 3px;}
+body{background-color: rgb(169, 197, 213);
+font-family: lingwai TC;
+text-align: center;
+}
+.nav{font-size: 25px;color: rgb(18, 18, 18);text-decoration: none;
+font-family: lingwai TC;}

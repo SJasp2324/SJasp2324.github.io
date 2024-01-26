@@ -1,0 +1,20 @@
+h1{text-align: center;}
+h2{text-align: center;}
+a{text-align: left;float: left; margin-right: 3px;}
+body{background-color: rgb(152, 185, 123);
+font-family: lingwai TC;
+text-align: center;
+}
+.nav{font-size: 25px;color: rgb(18, 18, 18);text-decoration: none;
+font-family: lingwai TC;}
+
+.et{
+    background-color: rgba(255, 255, 255, 0.192);
+    width: 20%;
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
